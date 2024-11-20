@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi there, I'm Jung Ik-Sung!  
 
 ## 🚀 About Me  
@@ -6,6 +5,15 @@
 - 🔭 I’m passionate about creating **creative solutions** and **building intuitive applications**.  
 - 🎯 My goal: Become a successful **developer with innovative ideas**.  
 - 📖 I enjoy discussing **programming and classical literature**.  
+
+---
+
+## 📊 Quick Overview  
+
+| **Current Interests**  | **Learning Goals**       |
+|-------------------------|--------------------------|
+| Algorithm Optimization  | Advanced Data Structures |
+| Mobile App Development  | System Design            |
 
 ---
 
@@ -43,6 +51,7 @@
 ---
 
 ### 🔥 "Let’s innovate and grow together!"
+
 
 
 
